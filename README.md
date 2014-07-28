@@ -13,5 +13,5 @@ and to help a little bit with debugging, M106/M107 will turn the Arduino pin 13
 LED on and off (as a sort of virtual fan).
 
 In addition, a non-standard command, P1 will cause the next numbered,
-checksummed command will be considered a checksum failure. This can be used to
+checksummed command to be considered a checksum failure. This can be used to
 simulate some serial transfer issues.
